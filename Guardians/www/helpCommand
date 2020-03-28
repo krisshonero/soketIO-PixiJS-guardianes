@@ -1,0 +1,3 @@
+npx webpack-dev-server
+npx webpack -d
+npx webpack -p
